@@ -25,6 +25,8 @@ Project aims to create parallax website.
 
 ## Expected Outcome
 
+https://aliaydogdu105.github.io/parallax-website/
+
 ![Project - Snapshot](Project_parallax.gif)
 
 ## Objective
